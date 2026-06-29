@@ -1,17 +1,29 @@
 # Projects
 
-This page tracks practical cybersecurity and GRC project ideas that can be developed into portfolio artefacts.
+This page tracks practical cybersecurity and GRC projects that can be developed into portfolio artefacts.
 
-The goal is to show applied thinking: how security knowledge can be translated into usable templates, workflows, dashboards, learning tools, and decision-support outputs.
+The goal is to show applied thinking: how security knowledge can be translated into usable templates, workflows, dashboards, learning tools, technical guides, and decision-support outputs.
 
-## Project Overview
+## Technical Portfolio Projects
+
+| Project | Repo | Status | Focus Area | Portfolio Value |
+|---|---|---|---|---|
+| MSMQ Security Lab | [MSMQ-Vulnerability](https://github.com/leongxudong/MSMQ-Vulnerability) | In Progress | Vulnerability validation / detection | Lab evidence, packet capture, Windows logs, Snort and Suricata notes |
+| Splunk Windows Security Monitoring | [splunk-windows-security-monitoring](https://github.com/leongxudong/splunk-windows-security-monitoring) | Placeholder Created | SIEM / Windows monitoring | Windows Event ID mapping, SPL searches, authentication and admin activity monitoring |
+| Entra Conditional Access Baseline | [entra-conditional-access-baseline](https://github.com/leongxudong/entra-conditional-access-baseline) | Placeholder Created | Identity security / Zero Trust | Conditional Access baseline policies, break-glass account notes, rollout checklist |
+| Microsoft Purview Data Protection Guide | [microsoft-purview-data-protection-guide](https://github.com/leongxudong/microsoft-purview-data-protection-guide) | Placeholder Created | Data protection / compliance | Sensitivity labels, DLP policy design, test mode, rollout planning |
+| Wireshark Network Analysis Basics | [wireshark-network-analysis-basics](https://github.com/leongxudong/wireshark-network-analysis-basics) | Placeholder Created | Network analysis | TCP, DNS, HTTP, TLS, and useful Wireshark display filters |
+| Sysmon Sigma Detection Lab | [sysmon-sigma-detection-lab](https://github.com/leongxudong/sysmon-sigma-detection-lab) | Placeholder Created | Endpoint detection | Sysmon event mapping and Sigma-style detection documentation |
+| Zero-Cost ISMS Template | [zero-cost-ISMS-template](https://github.com/leongxudong/zero-cost-ISMS-template) | Placeholder Created | ISMS / GRC / resilience | ISMS component map, BIA, BCP, DRP, risk register, internal audit checklist |
+
+---
+
+## GRC and AI-Assisted Project Ideas
 
 | Project | Status | Focus Area | Portfolio Value |
 |---|---|---|---|
 | SETA Scenario Generator | Planned | Security awareness and human risk | Shows ability to translate policies into scenario-based learning |
-| ISO/IEC 27001 ISMS Setup Guide | Planned | Governance, risk, and compliance | Shows framework application and implementation planning |
 | Vendor Risk Dashboard | Planned | Third-party risk management | Shows risk classification, tracking, and reporting capability |
-| BIA Cheatsheet | Planned | Business continuity and resilience | Shows ability to simplify business impact analysis concepts |
 | Agreement Assessment Bot | Planned | Contract and vendor assurance | Shows practical AI-assisted gap analysis concept |
 | Cyber Maturity Heatmap | Planned | Cyber maturity and control assessment | Shows roadmap and management reporting capability |
 
@@ -46,35 +58,6 @@ Many security awareness programmes are generic. Staff may complete training with
 
 ---
 
-## ISO/IEC 27001 ISMS Setup Guide
-
-### Concept
-
-A guided checklist that helps organizations understand what ISMS materials and governance processes they may need based on size, sector, regulatory exposure, and maturity.
-
-### Problem It Addresses
-
-Small and mid-sized organizations often struggle to understand what an ISMS actually requires beyond documentation.
-
-### Possible Features
-
-- Organization profile questions
-- ISMS document checklist
-- Risk assessment workflow
-- Statement of Applicability guidance
-- Internal audit readiness checklist
-- Management review preparation notes
-
-### Skills Demonstrated
-
-- ISO/IEC 27001 understanding
-- ISMS design
-- Governance planning
-- Risk treatment thinking
-- Practical implementation support
-
----
-
 ## Vendor Risk Dashboard
 
 ### Concept
@@ -103,34 +86,6 @@ Vendor security reviews can become inconsistent if assessment depth, evidence, r
 - Dashboard design
 - Control assurance tracking
 - Management reporting
-
----
-
-## BIA Cheatsheet
-
-### Concept
-
-A simplified business impact analysis reference that helps non-technical stakeholders understand impact categories, recovery expectations, and dependency mapping.
-
-### Problem It Addresses
-
-BIA exercises often fail when business users do not understand impact types, recovery priorities, or how to quantify business consequences.
-
-### Possible Features
-
-- Impact category examples
-- Recovery time objective explanation
-- Recovery point objective explanation
-- Dependency mapping guide
-- Critical process questionnaire
-- Example BIA scoring model
-
-### Skills Demonstrated
-
-- Business continuity planning
-- Stakeholder communication
-- Risk analysis
-- Simplification of technical concepts
 
 ---
 
