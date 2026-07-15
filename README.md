@@ -34,8 +34,11 @@ This repository is intended to show progression, reflection, and practical appli
 | 2026 | Microsoft AZ-900 | Azure fundamentals, cloud concepts, governance, and cloud service models |
 | 2026 | Certified Ethical Hacker (CEH) | Adversarial mindset, reconnaissance, scanning, exploitation concepts, and defensive awareness |
 | 2026 | Microsoft SC-401 | Microsoft Purview, information protection, DLP, retention, insider risk, and compliance operations |
-| 2026 | CISM and CISA exams passed | Security management, IT audit, assurance, governance, and control evaluation |
-| 2026 | PMP in progress | Project management, stakeholder engagement, risk, and delivery outcomes |
+| 2026 | Microsoft AZ-500 | Azure identity, networking, workload protection, Defender for Cloud, and Sentinel |
+| 2026 | Microsoft SC-100 | Zero Trust, security architecture, resilience, hybrid/multicloud, applications, data, and AI security |
+| 2026 | CISM and CISA | Security management, IT audit, assurance, governance, and control evaluation |
+| 2026 | PMP | Project management, stakeholder engagement, risk, and delivery outcomes |
+| 2026 | IAPP AIGP | Responsible AI governance, AI risk, controls, accountability, and emerging regulation |
 
 > Note: Certifications that are in-progress, pending approval, or exam-passed but not yet formally awarded should be clearly marked in the relevant section.
 
@@ -46,7 +49,7 @@ My current learning and development focus areas are:
 - Cybersecurity governance and information security management
 - IT audit, risk, and assurance
 - Vendor and third-party risk management
-- Microsoft security, identity, compliance, endpoint controls, and information protection
+- Microsoft security architecture, Azure, Entra, Purview, Defender, Sentinel, cloud governance, and information protection
 - Security awareness and human risk
 - AI governance and emerging technology risk
 - Project management for cybersecurity and IT initiatives
@@ -72,12 +75,17 @@ Some recurring lessons across my cybersecurity journey:
 
 - [SC-401 + CISA: Key Takeaways on Information Protection, Governance, and Auditability](learning-notes/2026-07-sc401-cisa-key-takeaways.md)
 
+## Certification Study Repositories
+
+- [Microsoft AZ-500 Study Guide and Hands-On Labs](https://github.com/leongxudong/microsoft-az-500-study-guide) — identity, networking, compute, data, Defender for Cloud, Sentinel, and the transition to SC-500.
+- [Microsoft SC-100 Cybersecurity Architect Study Guide](https://github.com/leongxudong/microsoft-sc-100-study-guide) — Zero Trust, resilience, security operations, identity, compliance, infrastructure, applications, data, and AI architecture.
+
 ## Planned Improvements
 
 - Framework comparison notes
 - Security awareness content samples
 - Vendor risk assessment examples
-- Cloud and Microsoft security configuration notes
+- Expanded Azure security engineering and Microsoft cybersecurity architecture labs
 - Practical mini-projects and templates
 - Reflections from real-world cybersecurity and IT governance work, with sensitive details removed
 
