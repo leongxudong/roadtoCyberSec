@@ -95,17 +95,16 @@ Vendor assessment should be proportionate. The depth of review should depend on 
 
 ### Topics
 
-- Microsoft 365 security concepts
-- Microsoft Entra ID
-- Conditional Access
-- Intune and endpoint management
-- Security and compliance portals
-- Azure governance
-- Shared responsibility model
+- Microsoft 365 and Microsoft security architecture
+- Microsoft Entra ID, Conditional Access, PIM, and workload identities
+- Azure networking, compute, storage, databases, Key Vault, and Policy
+- Microsoft Defender XDR, Defender for Cloud, Sentinel, and exposure management
+- Microsoft Purview, Intune, and information protection
+- Zero Trust, hybrid/multicloud governance, and shared responsibility
 
 ### Practical Focus
 
-Cloud security requires identity governance, endpoint posture, data protection, monitoring, user experience, and policy alignment.
+Cloud security architecture requires coordinated identity, network, workload, data, posture, monitoring, resilience, user-experience, and governance controls. The AZ-500 and SC-100 learning repositories turn these areas into practical implementation and design exercises.
 
 ---
 
@@ -165,12 +164,12 @@ Cybersecurity initiatives are often delivered through projects. Security work mu
 
 ### Topics
 
-- AI acceptable use
-- Data leakage risk
-- Human oversight
-- Model output validation
-- Third-party AI tools
-- AI policy and control design
+- AI acceptable use and lifecycle governance
+- Data, identity, model, and prompt risks
+- Human oversight and output validation
+- Third-party AI, model, dataset, plugin, and supply-chain risk
+- AI policy, impact assessment, control design, monitoring, and evidence
+- Responsible AI laws, standards, roles, and accountability
 
 ### Practical Focus
 
