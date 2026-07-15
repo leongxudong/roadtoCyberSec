@@ -15,9 +15,12 @@ The purpose is to track professional development, summarize key knowledge areas,
 | AZ-900: Azure Fundamentals | Microsoft | Completed | Azure fundamentals, governance, and cloud service models |
 | Certified Ethical Hacker (CEH) | EC-Council | Completed | Ethical hacking concepts, attacker mindset, and defensive awareness |
 | Microsoft Certified: Information Security Administrator Associate (SC-401) | Microsoft | Completed | Microsoft Purview, information protection, DLP, retention, insider risk, and compliance operations |
-| Certified Information Security Manager (CISM) | ISACA | Exam Passed — Certification Application Submitted | Security governance, risk management, programme management, and incident management |
-| Certified Information Systems Auditor (CISA) | ISACA | Exam Passed — Certification Application Pending | IT audit, assurance, control evaluation, and governance |
-| Project Management Professional (PMP) | PMI | In Progress | Project delivery, stakeholder management, risk, and business value |
+| Microsoft Certified: Azure Security Engineer Associate (AZ-500) | Microsoft | Completed | Azure identity, networking, compute, data, Defender for Cloud, and Sentinel |
+| Microsoft Certified: Cybersecurity Architect Expert (SC-100) | Microsoft | Completed | Zero Trust, security architecture, resilience, hybrid/multicloud, applications, data, and AI security |
+| Artificial Intelligence Governance Professional (AIGP) | IAPP | Completed | Responsible AI governance, AI risk, accountability, controls, and emerging regulation |
+| Certified Information Security Manager (CISM) | ISACA | Completed | Security governance, risk management, programme management, and incident management |
+| Certified Information Systems Auditor (CISA) | ISACA | Completed | IT audit, assurance, control evaluation, and governance |
+| Project Management Professional (PMP) | PMI | Completed | Project delivery, stakeholder management, risk, and business value |
 
 ## Certified in Cybersecurity (CC) — ISC2
 
@@ -174,6 +177,64 @@ Cloud security decisions require understanding both technology and governance re
 
 ---
 
+## Microsoft AZ-500 — Azure Security Engineer Associate
+
+### Purpose
+
+- Implement and manage security for Azure, hybrid, and multicloud resources
+- Strengthen practical capability across identity, network, compute, data, posture, and monitoring controls
+
+### Topics Covered
+
+- Azure RBAC, Microsoft Entra ID, PIM, Conditional Access, applications, and managed identities
+- NSGs, private endpoints, Azure Firewall, WAF, VPN, and network monitoring
+- Compute, storage, database, encryption, Key Vault, backup, and recovery controls
+- Azure Policy, Microsoft Defender for Cloud, and Microsoft Sentinel
+
+### Practical Relevance
+
+AZ-500 connects governance requirements to hands-on security engineering and control validation in Azure environments.
+
+### Personal Takeaway
+
+A cloud control is not complete until its allowed and denied paths, evidence, monitoring, rollback, and operational ownership have been tested.
+
+### Learning Repository
+
+- [Microsoft AZ-500 Study Guide and Hands-On Labs](https://github.com/leongxudong/microsoft-az-500-study-guide)
+
+> Microsoft will retire AZ-500 and the Azure Security Engineer Associate certification on 31 August 2026. The repository includes transition guidance for SC-500.
+
+---
+
+## Microsoft SC-100 — Cybersecurity Architect Expert
+
+### Purpose
+
+- Translate cybersecurity strategy, business risk, and compliance requirements into end-to-end security architectures
+- Design integrated controls across identity, devices, applications, network, data, infrastructure, operations, and resilience
+
+### Topics Covered
+
+- Zero Trust, Microsoft Cybersecurity Reference Architectures, and Microsoft Cloud Security Benchmark
+- Ransomware resilience, privileged access, security operations, identity, and compliance
+- Hybrid and multicloud posture, exposure management, network/SSE, endpoints, and servers
+- Application, DevSecOps, Microsoft 365, data, Copilot, and AI security
+
+### Practical Relevance
+
+SC-100 supports architecture and advisory work that connects technical controls, governance, implementation sequencing, assurance evidence, and residual risk.
+
+### Personal Takeaway
+
+Good security architecture makes assumptions, trade-offs, dependencies, ownership, validation, and residual risk explicit.
+
+### Learning Repository
+
+- [Microsoft SC-100 Cybersecurity Architect Study Guide](https://github.com/leongxudong/microsoft-sc-100-study-guide)
+
+---
+
 ## Microsoft SC-401 — Information Security Administrator Associate
 
 ### Purpose
@@ -197,6 +258,30 @@ SC-401 is relevant to organizations that need to protect sensitive information a
 ### Personal Takeaway
 
 Information protection should not be treated as a standalone technical configuration. It should be designed around data sensitivity, business process, user behaviour, evidence requirements, and governance ownership.
+
+---
+
+## Artificial Intelligence Governance Professional (AIGP) — IAPP
+
+### Purpose
+
+- Understand responsible AI governance across the AI lifecycle
+- Connect AI risks, accountability, laws, standards, and organisational controls
+
+### Topics Covered
+
+- AI systems and lifecycle
+- Responsible AI principles and risk management
+- Governance roles, policies, impact assessment, and oversight
+- Current and emerging AI laws, standards, and assurance considerations
+
+### Practical Relevance
+
+AIGP supports work involving AI acceptable use, third-party AI review, data protection, human oversight, risk assessment, and control design.
+
+### Personal Takeaway
+
+AI governance must cover data, identity, model and vendor risk, human accountability, monitoring, and evidence—not only policy statements.
 
 ---
 
